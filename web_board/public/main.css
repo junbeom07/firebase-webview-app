@@ -1,0 +1,37 @@
+.product {
+    display: flex;
+    padding: 10px;
+  }
+  .thumbnail {
+    max-width: 200px;
+    width: 100%;
+    border-radius: 10px;
+    background-size: cover;
+    background-position: center;
+  }
+  .product .contents {
+    font-size: 16px;
+    font-weight: 600;
+  }
+  .product .title {
+    font-size: 17px;
+    font-weight: 600;
+  }
+  .product .date {
+    color: grey;
+    font-size: 13px;
+  }
+
+  .button-container {
+    text-align: right;
+  }
+
+  .button-container2 {
+    display: flex;
+
+  }
+
+  .button {
+      margin-left: 10px;
+    }
+  

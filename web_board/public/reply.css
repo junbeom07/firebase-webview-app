@@ -1,0 +1,14 @@
+.product {
+    display: flex;
+    padding: 10px;
+  }
+
+  .product .content {
+    font-size: 16px;
+    font-weight: 600;
+  }
+
+  .button-container {
+    text-align: right;
+  }
+
